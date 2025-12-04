@@ -11,7 +11,6 @@
 
 ### To begin, just pick a color, choose the size, and begin drawing with your finger ! When youre done, you can press 'save' to save it in your phone gallery or 'reset' to reset the canvas and draw again
 
-
 ## Resources used to build the app:
 
 ### 1. https://www.youtube.com/watch?v=xdebBD47wTY
